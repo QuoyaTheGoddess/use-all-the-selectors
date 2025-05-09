@@ -4,7 +4,7 @@ time: "30 minutes"
 deliverables: "1 HTML file, 1 CSS file"
 ---
 
-# Use all the selectors!
+# Use all the selectors
 
 ## Overview
 
